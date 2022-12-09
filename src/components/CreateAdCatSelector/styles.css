@@ -1,0 +1,31 @@
+.createad-catselector {
+  width: 524px;
+  height: 772px;
+  border-radius: 8px;
+  border: solid 1px #ddd;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+}
+
+.category-selector {
+  width: 261px;
+  height: 772px;
+  border-right: 2px solid #ddd;
+}
+
+.subcategory-selector {
+  width: 261px;
+  height: 772px;
+}
+
+.create-ad-sub-div{
+  width: 260px;
+  height: 56px;
+  margin: 0 0 1px;
+  padding: 19px 202px 18px 28px;
+  /* box-shadow: 0 1px 0 0 #ddd; */
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  border-top-right-radius: 8px;
+}

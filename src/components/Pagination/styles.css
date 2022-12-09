@@ -1,0 +1,34 @@
+/* root: {
+    position: "fixed" ,
+    bottom: 0,
+    zIndex: 200,
+    backgroundColor: "gray",
+    padding: "10px 80px",
+    color: "white", I
+    width: "100%" */
+
+
+
+
+.pag-container{
+    display:flex;
+    justify-Content: center;
+    align-Items: center;
+    color: white;
+    margin-bottom: 5%;
+
+}
+
+.pag-div{
+    width: 100%;
+    color: white;
+    /* background-color: gray; */
+    padding: 10px 80px;
+    /* position: fixed; */
+}
+
+
+ 
+ 
+ 
+ 

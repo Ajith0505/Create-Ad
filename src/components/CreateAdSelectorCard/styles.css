@@ -1,0 +1,29 @@
+.createad-selector-div {
+  width: 260px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: 18px 11px 18px 28px;
+  /* box-shadow: 0 1px 0 0 #ddd; */
+  border-bottom: 1px solid #ddd;
+  background-color: #fff;
+  border-top-left-radius: 8px;
+  position: relative;
+}
+
+.selector-img-div{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 20px;
+    top: 15px;
+}
+.selector-img{
+  height: 100%;
+  width: 100%;
+  object-fit:fill;
+}
+
+.selector-name{
+  margin-left: 25px;
+}

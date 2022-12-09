@@ -1,0 +1,23 @@
+.count-div {
+    width: 74px;
+    height: 30px;
+    margin-left: 15%;
+    /* margin-bottom: 50px; */
+    /* padding: 6px 12px; */
+    border-radius: 8px;
+    background-color: #f1f1f1;
+    align-items: center;
+    padding-top: 4px;
+    text-align: center;
+}
+
+.count-span {
+    font-family: Outfit;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #222;
+}

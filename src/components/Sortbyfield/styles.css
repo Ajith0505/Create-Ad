@@ -1,0 +1,47 @@
+.sort-field-ad {
+    width: 18.9%;
+    height: 40px;
+    margin-left: 25%;
+    /* padding: 11px 12px 11px 16px; */
+    border-radius: 8px;
+    border: solid 1px #e1e1e1;
+    background-color: #fff;
+}
+
+.sort-field {
+    width: 18.9%;
+    height: 40px;
+    margin-left: 55%;
+    /* padding: 11px 12px 11px 16px; */
+    border-radius: 8px;
+    border: solid 1px #e1e1e1;
+    background-color: #fff;
+}
+.sort-content{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sort-span{
+    width: 55px;
+    height: 18px;
+    /* margin: 0 4px 0 0; */
+    margin-left: 10%;
+    font-family: Outfit;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #a7a7a7;
+}
+
+.sort-option{
+    border-style: hidden;
+    background-color: #fff;
+    width: 55%;
+    font-size: 14px;
+    outline: none;
+}

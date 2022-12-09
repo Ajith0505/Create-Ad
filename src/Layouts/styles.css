@@ -1,0 +1,16 @@
+.nav-container-above{
+    width: 100%;
+    height: 90px;
+}
+
+.sample-div{
+    width: 100%;
+    height: 60vh;
+    background-color: red;
+}
+
+.sample-div-adlist{
+    width: 100%;
+    height: 40vh;
+    background-color: green;
+}
